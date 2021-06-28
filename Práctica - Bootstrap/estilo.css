@@ -1,0 +1,30 @@
+.contenedor{
+    background-color: whitesmoke;
+}
+
+#violeta {
+    background-color: #9d8d98;
+    border:white 3px solid;
+}
+#celeste {
+    background-color: #7c9ecb;
+    border:white 3px solid;
+    padding: 16px;
+}
+#naranja {
+    background-color: #f4d9d0;
+    border:white 3px solid;
+    text-align: center;
+    padding: 16px;
+}
+#verde{
+    background-color: #68cc83;
+    border:white 3px solid;
+    align-items: center;
+    padding-top: 16px;
+}
+#rosa{
+    background-color: #a67da7;
+    border:white 3px solid;
+    padding: 16px;
+}
